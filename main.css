@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    overflow-x: hidden;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #292C33;
+    background-color: #EEEFF3;
+    overflow-x: hidden;
+}
+
+.nav {
+
+}
+
+.links {
+
+}
+
+.link {
+    
+}
